@@ -3,9 +3,12 @@
 
 To run:
 
-1) Install Elm and/or elm-test if not already installed:
+1) Install Elm and elm-test if not already installed:
 
 `npm install -g elm`
+
+and/or
+
 `npm install -g elm-test`
 
 2) Navigate to the repository's root folder and run elm-test from the command line:
